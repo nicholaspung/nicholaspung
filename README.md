@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Nicholas. 👋
+
+I'm a software engineer intern working for Blueberry Medical. I'm also looking for a full-time role, so feelfree tto reach out if I've peaked your interest!
+
+#### Now
+- [My Portfolio](https://www.nicholaspung.com/)
+- [Current Project](https://hub.myexperiment.life/)
 
 <!--
 **nicholaspung/nicholaspung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
