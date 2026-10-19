@@ -1,10 +1,14 @@
 ### Hi, I'm Nicholas. 👋
 
-I'm a software engineer intern working for Blueberry Medical. I'm also looking for a full-time role, so feelfree tto reach out if I've peaked your interest!
+I build useful applications with thoughtful interfaces. Currently exploring how AI agents can take ideas into production.
+
+I’m working on my own personal projects and exploring how AI agents can create and maintain codebases, from an idea to a production environment. Currently, I maintain a private project I call “Productivity.” It brings the applications I want to build into one repository so I can maintain my projects easily. To learn more about this project, read the case study.
+
+Outside of my personal project, I’m looking for an opportunity to work on something I find meaningful and feel excited to move forward.
 
 #### Now
 - [My Portfolio](https://www.nicholaspung.com/)
-- [Current Project](https://hub.myexperiment.life/)
+- [Current Project](http://www.nicholaspung.com/blog/productivity/)
 
 <!--
 **nicholaspung/nicholaspung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
